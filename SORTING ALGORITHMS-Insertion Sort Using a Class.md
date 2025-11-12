@@ -64,3 +64,4 @@ sorter.print_list()
 ![image](https://github.com/user-attachments/assets/f66afcf1-6563-4e37-82ff-181570be2dc2)
 
 ## RESULT:
+Thus, the program is verified successfully.
