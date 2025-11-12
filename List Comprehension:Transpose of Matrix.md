@@ -50,5 +50,5 @@ print_matrix(transpose(M))
 ![image](https://github.com/user-attachments/assets/ae3e0326-45bf-4442-81a8-f8acd77f31a0)
 
 ## RESULT:
-
+Thus, the program is verified successfully.
 
